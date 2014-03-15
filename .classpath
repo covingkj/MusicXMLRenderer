@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="E:/Users/KC/Downloads/jaxb-ri-2.2.7/jaxb-ri-2.2.7/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="E:/Users/KC/Downloads/jaxb-ri-2.2.7/jaxb-ri-2.2.7/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="E:/Users/KC/Downloads/jaxb-ri-2.2.7/jaxb-ri-2.2.7/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="E:/Users/KC/Downloads/jaxb-ri-2.2.7/jaxb-ri-2.2.7/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/KC/Downloads/jaxb-ri-2.2.7/jaxb-ri-2.2.7/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
